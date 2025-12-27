@@ -1,35 +1,49 @@
-<!--
-**L-Lainio/l-lainio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hello World, I'm Lora Lainio 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | Data Security & Tax Professional (PTIN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hello World 👋
-<p align="left">Hi 👋! My name is Lora Lainio <br><br>I am committed to continuous learning and growth in the ever-evolving field of web development, always seeking new challenges to further enhance my skills and expand my knowledge base. My goal is to leverage my expertise to contribute meaningfully to innovative projects and to pursue opportunities that allow me to make a positive impact.</p>
+I am a developer who bridges the gap between complex financial compliance and modern web technology. With a background as a **PTIN-registered tax professional**, I bring a "Security-First" mindset to software development, specializing in the handling of sensitive PII (Personally Identifiable Information) and secure data management.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+---
+
+### 🛠 Tech Stack & Tools
+
+**Frontend & Frameworks**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Data Management**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Testing & Quality**
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4b00ad?style=for-the-badge&logo=Insomnia&logoColor=white)
+
+---
+
+### 🛡️ Secure Development Philosophy
+
+Beyond the code, I am a caregiver to my elderly relatives and a parent to both humans and pets. These roles have instilled in me a deep sense of responsibility and a focus on security.
+
+* **Data Integrity:** My experience with tax preparation means I never take data privacy for granted.
+* **Empathy in Design:** Being a caregiver makes me a better developer—I build with accessibility and user safety in mind.
+* **Problem Solver:** From DIY home projects and gardening to debugging complex SQL joins, I thrive on fixing things and making them grow.
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Stack | Key Feature |
+| :--- | :--- | :--- |
+| **[Weather Dashboard](https://l-lainio.github.io/weather_board/)** | JS / Fetch / API | 2025 Refactor: Geocoding & Debouncing |
+| **
 
 <div align="right">
       <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVjdHd1aTE5aGl4bHl2amRzNGo4YjJteGFuOWltZGxrYnFvdzhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
