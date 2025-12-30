@@ -2,7 +2,8 @@
 
 ### Full-Stack Developer | Data Security & Tax Professional
 
-I am a developer who bridges the gap between complex financial compliance and modern web technology. With a background as a **PTIN-registered tax professional**, I bring a "Security-First" mindset to software development, specializing in the handling of sensitive PII (Personally Identifiable Information) and secure data management.
+I am a developer who bridges the gap between complex financial compliance and modern web technology. With a background as a PTIN-registered tax professional, I bring a "Security-First" mindset to software development, specializing in the handling of sensitive PII (Personally Identifiable Information) and secure data management.
+
 
 ---
 
@@ -41,9 +42,10 @@ Beyond the code, I am a caregiver to my elderly relatives and a parent to both h
 ### 🌟 Featured Projects
 
 | Project | Stack | Key Feature |
-| :--- | :--- | :--- |
-| **[Weather Dashboard](https://l-lainio.github.io/weather_board/)** | JS / Fetch / API | 2025 Refactor: Geocoding & Debouncing |
-| **
+|--------|--------|-------------|
+| **[Weather Dashboard](https://l-lainio.github.io/weather_board/)** | JavaScript / Fetch API | 2025 Refactor: Geocoding & Debouncing |
+| **[Employee Tracker SQL](https://github.com/L-Lainio/L-Lainio_employeeTrackerSQL)** | Node.js / SQL / Inquirer | CLI-based employee management system |
+| **[React Vite Portfolio](https://github.com/L-Lainio/ljlainio-react-vite)** | React / Vite / Tailwind | Fast, modern personal portfolio |
 
 <div align="right">
       <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVjdHd1aTE5aGl4bHl2amRzNGo4YjJteGFuOWltZGxrYnFvdzhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
