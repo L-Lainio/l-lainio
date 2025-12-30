@@ -1,6 +1,6 @@
 # 🚀 Hello World, I'm Lora Lainio 👋
 
-### Full-Stack Developer | Data Security & Tax Professional (PTIN)
+### Full-Stack Developer | Data Security & Tax Professional
 
 I am a developer who bridges the gap between complex financial compliance and modern web technology. With a background as a **PTIN-registered tax professional**, I bring a "Security-First" mindset to software development, specializing in the handling of sensitive PII (Personally Identifiable Information) and secure data management.
 
