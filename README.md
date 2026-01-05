@@ -1,4 +1,4 @@
-# 🚀 Hello World, I'm Lora Lainio 👋
+# 🚀 Hello World, I'm Lora
 
 ### Full-Stack Developer | Data Security & Tax Professional
 
