@@ -2,8 +2,7 @@
 
 ### Full-Stack Developer | Data Security & Tax Professional
 
-I am a developer who bridges the gap between complex financial compliance and modern web technology. With a background as a PTIN-registered tax professional, I bring a "Security-First" mindset to software development, specializing in the handling of sensitive PII (Personally Identifiable Information) and secure data management.
-
+I am a developer who bridges the gap between complex financial compliance and modern web technology. With a background as a **PTIN-registered tax professional**, I bring a "Security-First" mindset to software development, specializing in the handling of sensitive PII (Personally Identifiable Information) and secure data management.
 
 ---
 
@@ -14,38 +13,55 @@ I am a developer who bridges the gap between complex financial compliance and mo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Data Management**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Testing & Quality**
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4b00ad?style=for-the-badge&logo=Insomnia&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
-### 🛡️ Secure Development Philosophy
-
-Beyond the code, I am a caregiver to my elderly relatives and a parent to both humans and pets. These roles have instilled in me a deep sense of responsibility and a focus on security.
-
-* **Data Integrity:** My experience with tax preparation means I never take data privacy for granted.
-* **Empathy in Design:** Being a caregiver makes me a better developer—I build with accessibility and user safety in mind.
-* **Problem Solver:** From DIY home projects and gardening to debugging complex SQL joins, I thrive on fixing things and making them grow.
+### 🧠 Currently Learning & Building (The MERN Journey)
+Transitioning into full MERN stack development! I am currently deep-diving into:
+* **[Bibliotheca-MERN](https://github.com/L-Lainio/Bibliotheca-MERN):** Converting a RESTful API to **GraphQL with Apollo Server**.
+* **State Management:** Mastering the flow of data between MongoDB and React components.
+* **Authentication:** Implementing secure JWT (JSON Web Token) protocols for user sessions.
 
 ---
 
 ### 🌟 Featured Projects
 
 | Project | Stack | Key Feature |
-|--------|--------|-------------|
-| **[Weather Dashboard](https://l-lainio.github.io/weather_board/)** | JavaScript / Fetch API | 2025 Refactor: Geocoding & Debouncing |
-| **[Employee Tracker SQL](https://github.com/L-Lainio/L-Lainio_employeeTrackerSQL)** | Node.js / SQL / Inquirer | CLI-based employee management system |
-| **[React Vite Portfolio](https://github.com/L-Lainio/ljlainio-react-vite)** | React / Vite / Tailwind | Fast, modern personal portfolio |
+|:---|:---|:---|
+| **[React Vite Portfolio](https://github.com/L-Lainio/ljlainio-react-vite)** | React / Vite / Tailwind | **High-Performance UI:** Optimized portfolio featuring responsive design and lightning-fast Vite builds. |
+| **[Employee Tracker SQL](https://github.com/L-Lainio/L-Lainio_employeeTrackerSQL)** | Node.js / PostgreSQL | **Data Architecture:** A CLI tool designed for complex organizational mapping using relational database joins. |
+| **[Weather Dashboard](https://l-lainio.github.io/weather_board/)** | JS / Fetch API | **API Optimization:** 2025 Refactor utilizing Geocoding, search debouncing, and local storage. |
+| **[Social Network API](https://github.com/L-Lainio/socialNetworkAPINoSQL)** | NoSQL / MongoDB | **Scalable Backend:** Robust API architecture for handling high-volume user data and reactions. |
+
+---
+
+### 🛡️ Secure Development Philosophy
+
+* **Data Integrity:** My experience with tax preparation means I never take data privacy for granted.
+* **Empathy in Design:** Being a caregiver makes me a better developer—I build with accessibility and user safety in mind.
+* **Problem Solver:** From DIY home projects to debugging complex SQL joins, I thrive on fixing things and making them grow.
+
+---
+
+### 📁 Technical Archive
+
+**System Architecture & Logic**
+* **[Regex Tutorial](https://github.com/L-Lainio/regexTutorial):** Documentation on pattern matching for secure data validation.
+* **[SVG Logo Maker](https://github.com/L-Lainio/mockUp_svgLogoMaker):** OOP application for generating scalable vector assets via CLI.
+* **[E-Commerce BackEnd](https://github.com/L-Lainio/eCommerceBackEnd):** Secure server-side logic using Sequelize ORM.
+
+**Web Utilities**
+* **[Express Note Taker](https://github.com/L-Lainio/expressNoteTaker):** Persistent data handling and custom middleware.
+* **[3rd-Party API Task Board](https://github.com/L-Lainio/3rd-PartyAPI-taskBoard):** Kanban tool featuring Day.js and jQuery.
+* **[Horiseon Accessibility](https://github.com/L-Lainio/horiseonRefractorWebsite):** Semantic HTML and WCAG compliance refactor.
+
+---
 
 <div align="right">
       <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVjdHd1aTE5aGl4bHl2amRzNGo4YjJteGFuOWltZGxrYnFvdzhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
