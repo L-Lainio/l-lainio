@@ -8,6 +8,12 @@ I am a developer who bridges the gap between complex financial compliance and mo
 
 ### 🛠 Tech Stack & Tools
 
+**Cloud & Infrastructure**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,24 +25,25 @@ I am a developer who bridges the gap between complex financial compliance and mo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-
-### 🧠 Currently Learning & Building (The MERN Journey)
-Transitioning into full MERN stack development! I am currently deep-diving into:
-* **[Bibliotheca-MERN](https://github.com/L-Lainio/Bibliotheca-MERN):** Converting a RESTful API to **GraphQL with Apollo Server**.
-* **State Management:** Mastering the flow of data between MongoDB and React components.
-* **Authentication:** Implementing secure JWT (JSON Web Token) protocols for user sessions.
+### 🧠 Currently Learning & Building (The Cloud-Native Shift)
+I am currently transitioning from traditional web stacks into **Scalable Infrastructure** and **DevSecOps**:
+* **Containerization:** Mastering **Docker** workflows for consistent dev-to-prod environments and custom Dockerfile optimization.
+* **Orchestration:** Exploring cluster management and service scaling with **Kubernetes**.
+* **Linux Systems:** Deep-diving into CLI-based server management, WSL 2 environments, and bash automation.
+* **Cloud Security:** Implementing serverless SQL architectures with high-level encryption and managed identities.
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Stack | Key Feature |
+| Project | Stack | Key Focus |
 |:---|:---|:---|
-| **[React Vite Portfolio](https://github.com/L-Lainio/ljlainio-react-vite)** | React / Vite / Tailwind | **High-Performance UI:** Optimized portfolio featuring responsive design and lightning-fast Vite builds. |
+| **[Vault-Azure-ServerlessSQL](https://github.com/L-Lainio/Vault-Azure-ServerlessSQL)** | Azure / Python / SQL | **Security-First Engine:** A cloud-native compliance engine designed to manage sensitive records using serverless architecture. |
+| **[my-first-docker-app](https://github.com/L-Lainio/my-first-docker-app)** | Docker / Nginx / WSL2 | **Containerization:** A full containerized workflow demonstrating Dockerfile creation and automated Nginx deployment. |
 | **[Employee Tracker SQL](https://github.com/L-Lainio/L-Lainio_employeeTrackerSQL)** | Node.js / PostgreSQL | **Data Architecture:** A CLI tool designed for complex organizational mapping using relational database joins. |
-| **[Weather Dashboard](https://l-lainio.github.io/weather_board/)** | JS / Fetch API | **API Optimization:** 2025 Refactor utilizing Geocoding, search debouncing, and local storage. |
 | **[Social Network API](https://github.com/L-Lainio/socialNetworkAPINoSQL)** | NoSQL / MongoDB | **Scalable Backend:** Robust API architecture for handling high-volume user data and reactions. |
 
 ---
@@ -44,6 +51,7 @@ Transitioning into full MERN stack development! I am currently deep-diving into:
 ### 🛡️ Secure Development Philosophy
 
 * **Data Integrity:** My experience with tax preparation means I never take data privacy for granted.
+* **Infrastructure as Trust:** I believe secure code is only as strong as the environment it runs in; hence my focus on Linux and Docker security.
 * **Empathy in Design:** Being a caregiver makes me a better developer—I build with accessibility and user safety in mind.
 * **Problem Solver:** From DIY home projects to debugging complex SQL joins, I thrive on fixing things and making them grow.
 
@@ -57,9 +65,7 @@ Transitioning into full MERN stack development! I am currently deep-diving into:
 * **[E-Commerce BackEnd](https://github.com/L-Lainio/eCommerceBackEnd):** Secure server-side logic using Sequelize ORM.
 
 **Web Utilities**
-* **[Express Note Taker](https://github.com/L-Lainio/expressNoteTaker):** Persistent data handling and custom middleware.
-* **[3rd-Party API Task Board](https://github.com/L-Lainio/3rd-PartyAPI-taskBoard):** Kanban tool featuring Day.js and jQuery.
-* **[Horiseon Accessibility](https://github.com/L-Lainio/horiseonRefractorWebsite):** Semantic HTML and WCAG compliance refactor.
+* **[React Vite Portfolio](https://github.com/L-Lainio/ljlainio-react-vite)** | **[Express Note Taker](https://github.com/L-Lainio/expressNoteTaker)** | **[Weather Dashboard](https://l-lainio.github.io/weather_board/)**
 
 ---
 
