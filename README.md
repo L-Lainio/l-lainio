@@ -13,11 +13,14 @@ I am a developer who bridges the gap between complex financial compliance and mo
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![FIDO2](https://img.shields.io/badge/FIDO2%20/%20WebAuthn-Security-emerald)
 
 **Frontend & Frameworks**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Backend & Data Management**
@@ -26,10 +29,16 @@ I am a developer who bridges the gap between complex financial compliance and mo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ---
 ### 🧠 Currently Learning & Building (The Cloud-Native Shift)
-I am currently transitioning from traditional web stacks into **Scalable Infrastructure** and **DevSecOps**:
+
+I am currently transitioning from traditional web stacks into **Scalable Infrastructure** and **DevSecOps**evolving my stack toward **High-Assurance Systems** and **DevSecOps**:
+* **Behavioral Biometrics:** Implementing Dynamic Time Warping (DTW) algorithms to verify user identity via touch velocity and pressure signals.
+* **Phishing Resistance:** Hardening applications using the WebAuthn standard to move beyond passwords and into hardware-backed security.
+* **Zero Trust Architectures:** Building systems that "Never Trust, Always Verify" through environmental attestation and virtual-camera detection.
+* **Cloud-Native Security:** Orchestrating secure, containerized environments using Docker and Kubernetes to ensure data integrity from dev to prod.
 * **Containerization:** Mastering **Docker** workflows for consistent dev-to-prod environments and custom Dockerfile optimization.
 * **Orchestration:** Exploring cluster management and service scaling with **Kubernetes**.
 * **Linux Systems:** Deep-diving into CLI-based server management, WSL 2 environments, and bash automation.
@@ -41,6 +50,7 @@ I am currently transitioning from traditional web stacks into **Scalable Infrast
 
 | Project | Stack | Key Focus |
 |:---|:---|:---|
+| **[PII-Guard Middleware](https://github.com/L-Lainio/PII-Guard-Logging-with-Redaction-Middleware)** | TypeScript / Node.js / Docker | **Data Privacy:** A security-first redaction engine that prevents PII/Secrets from leaking into logging pipelines and structured payloads. |
 | **[Vault-Azure-ServerlessSQL](https://github.com/L-Lainio/Vault-Azure-ServerlessSQL)** | Azure / Python / SQL | **Security-First Engine:** A cloud-native compliance engine designed to manage sensitive records using serverless architecture. |
 | **[my-first-docker-app](https://github.com/L-Lainio/my-first-docker-app)** | Docker / Nginx / WSL2 | **Containerization:** A full containerized workflow demonstrating Dockerfile creation and automated Nginx deployment. |
 | **[Employee Tracker SQL](https://github.com/L-Lainio/L-Lainio_employeeTrackerSQL)** | Node.js / PostgreSQL | **Data Architecture:** A CLI tool designed for complex organizational mapping using relational database joins. |
@@ -50,6 +60,8 @@ I am currently transitioning from traditional web stacks into **Scalable Infrast
 
 ### 🛡️ Secure Development Philosophy
 
+* **PII Integrity:** My background as a tax professional means data privacy isn't a feature—it's a fundamental right. 
+* **Defense in Depth:** I believe in multi-layered security: Hardware (FIDO2), Behavioral (Gestures), and Environmental (Anti-Injection).
 * **Data Integrity:** My experience with tax preparation means I never take data privacy for granted.
 * **Infrastructure as Trust:** I believe secure code is only as strong as the environment it runs in; hence my focus on Linux and Docker security.
 * **Empathy in Design:** Being a caregiver makes me a better developer—I build with accessibility and user safety in mind.
